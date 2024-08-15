@@ -1,0 +1,463 @@
+
+@media screen and (max-width: 767px) {
+
+.contactSection{
+    display: grid;
+    background-color: #0c0c0c;
+}
+
+.contactSection h1{
+    color: white;
+    display: flex;
+    justify-self: center;
+    font-size: 1.5rem;
+    position: relative;
+    top: 0.5rem;
+}
+
+.contactSection .contactCard{
+    height: 30rem;
+    width: 16rem;
+    position: relative;
+    top: 2rem;
+    background-color: #1F2937;
+    display: grid;
+    justify-self: center;
+    color: white;
+    border-radius: 0.3rem;
+}
+
+.contactSection .contactCard h3{
+    color:rgb(59 130 246);
+    font-size: 1rem;
+    position: relative;
+    left: 1rem;
+    top: 0.5rem;
+}
+
+.contactSection .contactCard p{
+    font-size: 0.8rem;
+    position: relative;
+    left: 1rem;
+    
+}
+
+
+.contactSection .contactCard .mailSection{
+    display: grid;
+    justify-self: center;
+    position: relative;
+    top: 1rem;
+}
+
+.contactSection .contactCard .mailSection img{
+    display: grid;
+    justify-self: center;
+}
+
+
+
+.contactSection .contactCard .phoneSection{
+    display: grid;
+    justify-self: center;
+    position: relative;
+    top: 1rem;
+    cursor: pointer;
+}
+
+.contactSection .contactCard .phoneSection img{
+    display: grid;
+    justify-self: center;
+}
+
+.contactSection .contactCard h4{
+    display: flex;
+    position: relative;
+    left: 1rem;
+    top: 1rem;
+    color:rgb(59 130 246);
+}
+
+.contactSection .contactCard .socials{
+    display: flex;
+    position: relative;
+    left: 1rem;
+    top: 1rem;
+    gap: 1rem;
+}
+.contactSection .contactCard .socials img{
+    height: 2.5rem;
+    width: 2.5rem;
+    cursor: pointer;
+}
+
+
+.contactSection .contactCard a{
+    position: relative;
+    top: 5rem;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+    height: 3rem;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 0.3rem;
+}
+
+}
+
+
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+    .contactSection{
+        display: grid;
+        background-color: #0c0c0c;
+        justify-content: center;
+    }
+    
+    .contactSection h1{
+        color: white;
+        display: flex;
+        justify-self: center;
+        font-size: 1.5rem;
+        position: relative;
+        top: 0.5rem;
+    }
+    
+    .contactSection .contactCard{
+        height: 30rem;
+        width: 22rem;
+        position: relative;
+        top: 2rem;
+        background-color: #1F2937;
+        display: grid;
+        justify-self: center;
+        color: white;
+        border-radius: 0.3rem;
+    }
+    
+    .contactSection .contactCard h3{
+        color:rgb(59 130 246);
+        font-size: 1rem;
+        position: relative;
+        left: 1rem;
+        top: 0.5rem;
+    }
+    
+    .contactSection .contactCard p{
+        font-size: 0.8rem;
+        position: relative;
+        left: 1rem;
+        
+    }
+    
+    
+    .contactSection .contactCard .mailSection{
+        display: grid;
+        justify-self: center;
+        position: relative;
+        top: 1rem;
+    }
+    
+    .contactSection .contactCard .mailSection img{
+        display: grid;
+        justify-self: center;
+    }
+    
+    
+    
+    .contactSection .contactCard .phoneSection{
+        display: grid;
+        justify-self: center;
+        position: relative;
+        top: 1rem;
+        cursor: pointer;
+    }
+    
+    .contactSection .contactCard .phoneSection img{
+        display: grid;
+        justify-self: center;
+    }
+    
+    .contactSection .contactCard h4{
+        display: flex;
+        position: relative;
+        left: 1rem;
+        top: 1rem;
+        color:rgb(59 130 246);
+    }
+    
+    .contactSection .contactCard .socials{
+        display: flex;
+        position: relative;
+        left: 1rem;
+        top: 1rem;
+        gap: 1rem;
+    }
+    .contactSection .contactCard .socials img{
+        height: 2.5rem;
+        width: 2.5rem;
+        cursor: pointer;
+    }
+    
+    
+    .contactSection .contactCard a{
+        position: relative;
+        top: 5rem;
+        background-color: #1F2937;
+        display: flex;
+        justify-content: center;
+        font-size: 1.5rem;
+        font-weight: 500;
+        height: 3rem;
+        align-items: center;
+        cursor: pointer;
+        border-radius: 0.3rem;
+    }
+}
+
+@media screen and (min-width:1024px) and (max-width:1439px) {
+
+    .contactSection{
+        display: grid;
+        background-color: #0c0c0c;
+        justify-content: center;
+    }
+    
+    .contactSection h1{
+        color: white;
+        display: flex;
+        justify-self: center;
+        font-size: 1.5rem;
+        position: relative;
+        top: 0.5rem;
+    }
+    
+    .contactSection .contactCard{
+        height: 30rem;
+        width: 27rem;
+        position: relative;
+        top: 2rem;
+        background-color: #1F2937;
+        display: grid;
+        justify-self: center;
+        color: white;
+        border-radius: 0.3rem;
+    }
+    
+    .contactSection .contactCard h3{
+        color:rgb(59 130 246);
+        font-size: 1rem;
+        position: relative;
+        left: 1rem;
+        top: 0.5rem;
+    }
+    
+    .contactSection .contactCard p{
+        font-size: 0.8rem;
+        position: relative;
+        left: 1rem;
+        
+    }
+    
+    
+    .contactSection .contactCard .mailSection{
+        display: grid;
+        justify-self: center;
+        position: relative;
+        top: 1rem;
+    }
+    
+    .contactSection .contactCard .mailSection img{
+        display: grid;
+        justify-self: center;
+    }
+    
+    
+    
+    .contactSection .contactCard .phoneSection{
+        display: grid;
+        justify-self: center;
+        position: relative;
+        top: 1rem;
+        cursor: pointer;
+    }
+    
+    .contactSection .contactCard .phoneSection img{
+        display: grid;
+        justify-self: center;
+    }
+    
+    .contactSection .contactCard h4{
+        display: flex;
+        position: relative;
+        left: 1rem;
+        top: 1rem;
+        color:rgb(59 130 246);
+    }
+    
+    .contactSection .contactCard .socials{
+        display: flex;
+        position: relative;
+        left: 1rem;
+        top: 1rem;
+        gap: 1rem;
+    }
+    .contactSection .contactCard .socials img{
+        height: 2.5rem;
+        width: 2.5rem;
+        cursor: pointer;
+    }
+    
+    
+    .contactSection .contactCard a{
+        position: relative;
+        top: 5rem;
+        background-color: #1F2937;
+        display: flex;
+        justify-content: center;
+        font-size: 1.5rem;
+        font-weight: 500;
+        height: 3rem;
+        align-items: center;
+        cursor: pointer;
+        border-radius: 0.3rem;
+    }
+}
+
+@media screen and (min-width:1440px) {
+
+    .contactSection{
+        display: grid;
+        background-color: #0c0c0c;
+    }
+    
+    .contactSection h1{
+        color: white;
+        display: flex;
+        justify-self: center;
+        font-size: 2.5rem;
+        position: relative;
+        top: 2rem;
+    }
+    
+    .contactSection .contactCard{
+        height: 39rem;
+        width: 40rem;
+        position: relative;
+        top: 4rem;
+        background-color: #1F2937;
+        display: grid;
+        justify-self: center;
+        color: white;
+        border-radius: 0.3rem;
+    }
+    
+    .contactSection .contactCard h3{
+        color:rgb(59 130 246);
+        font-size: 1.8rem;
+        position: relative;
+        left: 1.5rem;
+        top: -.5rem;
+    }
+    
+    .contactSection .contactCard p{
+        font-size: 1.1rem;
+        position: relative;
+        left: 1.5rem;
+        top: -2rem;
+        
+    }
+    
+    
+    .contactSection .contactCard .mailSection{
+        display: grid;
+        justify-self: center;
+        position: relative;
+        top: 1rem;
+        
+    }
+    
+    .contactSection .contactCard .mailSection img{
+        display: grid;
+        justify-self: center;
+        height: 3.5rem;
+        width: 3.5rem;
+        cursor: pointer;
+    }
+    
+    .contactSection .contactCard .mailSection h5{
+        font-size: 1.1em;
+        position: relative;
+        top: -0.5rem;
+    }
+
+
+    .contactSection .contactCard .phoneSection h5{
+        font-size: 1.1em;
+        position: relative;
+        top: -0.5rem;
+    }
+    
+    
+    .contactSection .contactCard .phoneSection{
+        display: grid;
+        justify-self: center;
+        position: relative;
+        top: 1rem;
+        
+    }
+    
+    .contactSection .contactCard .phoneSection img{
+        display: grid;
+        justify-self: center;
+        height: 3.5rem;
+        width: 3.5rem;
+        cursor: pointer;
+    }
+    
+    .contactSection .contactCard h4{
+        display: flex;
+        position: relative;
+        font-size: 1.6rem;
+        left: 1.5rem;
+        top: 1.2rem;
+        color:rgb(59 130 246);
+    }
+    
+    .contactSection .contactCard .socials{
+        display: flex;
+        position: relative;
+        left: 1.5rem;
+        top: 0.5rem;
+        gap: 1rem;
+    }
+    .contactSection .contactCard .socials img{
+        height: 3.5rem;
+        width: 3.5rem;
+        cursor: pointer;
+    }
+    
+    
+    .contactSection .contactCard a{
+        position: relative;
+        top: 5rem;
+        background-color: #1F2937;
+        display: flex;
+        justify-content: center;
+        font-size: 2rem;
+        font-weight: 300;
+        height: 3rem;
+        align-items: center;
+        cursor: pointer;
+        border-radius: 0.3rem;
+        padding: 0.5rem;
+    }
+
+    .contactSection .contactCard a:hover{
+        background: linear-gradient(90deg, #EE4C8D, #F25D5D, #F5663E, #F8711F);
+    }
+}

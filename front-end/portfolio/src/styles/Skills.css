@@ -1,0 +1,1676 @@
+@media screen and (max-width:767px) {
+    .skillsSection{
+        display: grid;
+        justify-content: center;
+    }
+
+    .mainContainer {
+        max-width: 100%;
+        overflow-x: hidden; 
+    }
+    
+    * {
+        box-sizing: border-box;
+    }
+    
+    .skillsSection h3{
+        color: white;
+        font-size: 1.5rem;
+        display: flex;
+        justify-self: center;
+        position: relative;
+    }
+
+    .skillsSection .skillsCard{
+        height: 23rem;
+        width:18rem;
+        background-color: #1F2937;
+        position: relative;
+        top: 1rem;
+        border-radius: 0.3rem;
+        display: grid;
+        justify-self: center;
+
+    }
+
+    .skillsSection .skillsCard .barDiv h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 11.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv{
+        display: flex;
+        position: relative;
+        top: 0.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -3.5rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 12rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+
+
+    
+    .skillsSection .skillsCard .barDiv1 h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 8rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1{
+        display: flex;
+        position: relative;
+        top: -1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1 .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv1 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 13rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+
+    
+    .skillsSection .skillsCard .barDiv2 h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 8rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2{
+        display: flex;
+        position: relative;
+        top: -3.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2 .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv2 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 10rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+    
+    .skillsSection .skillsCard .barDiv3 h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 8rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3{
+        display: flex;
+        position: relative;
+        top: -5.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3 .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv3 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 11.8rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+    
+    .skillsSection .skillsCard .barDiv4 h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 8rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4{
+        display: flex;
+        position: relative;
+        top: -7.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4 .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv4 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 14rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+    .skillsSection .techSkills{
+        width: 18rem;
+        height: 23rem;
+        border-radius: 0.3rem;
+        background-color: #1F2937;
+        position: relative;
+        top: 3rem;
+        color: white;
+    }
+
+    .skillsSection .techSkills h4{
+        color: rgb(59 130 246);
+        position: relative;
+        left: 1.5rem;
+        top: 0.5rem;
+    }
+
+    .skillsSection .techSkills ul{
+        list-style:circle;
+    }
+
+    .skillsSection .techSkills ul li{
+        margin-bottom: 0.5rem;
+    }
+
+    .skillsSection p{
+        color: white;
+        position: relative;
+        font-weight: 700;
+        display: flex;
+        justify-self: center;
+
+    }
+
+    .skillsSection p a{
+        cursor: pointer;
+        text-decoration: none;
+        color: white;
+        position: relative;
+        top: 5rem;
+       
+    }
+
+    .skillsSection p a:hover{
+        background: linear-gradient(90deg, #EE4C8D, #F25D5D, #F5663E, #F8711F)
+    }
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+    .skillsSection{
+        display: grid;
+        justify-content: center;
+    }
+
+    .mainContainer {
+        max-width: 100%;
+        overflow-x: hidden; 
+    }
+    
+    * {
+        box-sizing: border-box;
+    }
+    
+    .skillsSection h3{
+        color: white;
+        font-size: 1.5rem;
+        display: flex;
+        justify-self: center;
+        position: relative;
+    }
+
+    .skillsSection .skillsCard{
+        height: 23rem;
+        width:18rem;
+        background-color: #1F2937;
+        position: relative;
+        top: 1rem;
+        border-radius: 0.3rem;
+        display: grid;
+        justify-self: center;
+
+    }
+
+    .skillsSection .skillsCard .barDiv h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 11.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv{
+        display: flex;
+        position: relative;
+        top: 0.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -3.5rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 12rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+
+
+    
+    .skillsSection .skillsCard .barDiv1 h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 8rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1{
+        display: flex;
+        position: relative;
+        top: -1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1 .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv1 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 13rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+
+    
+    .skillsSection .skillsCard .barDiv2 h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 8rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2{
+        display: flex;
+        position: relative;
+        top: -3.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2 .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv2 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 10rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+    
+    .skillsSection .skillsCard .barDiv3 h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 8rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3{
+        display: flex;
+        position: relative;
+        top: -5.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3 .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv3 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 11.8rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+    
+    .skillsSection .skillsCard .barDiv4 h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 8rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4{
+        display: flex;
+        position: relative;
+        top: -7.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4 .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv4 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 14rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+    .skillsSection .techSkills{
+        width: 18rem;
+        height: 24rem;
+        border-radius: 0.3rem;
+        background-color: #1F2937;
+        position: relative;
+        top: 3rem;
+        color: white;
+    }
+
+    .skillsSection .techSkills h4{
+        color: rgb(59 130 246);
+        position: relative;
+        left: 1.5rem;
+        top: 0.5rem;
+    }
+
+    .skillsSection .techSkills ul{
+        list-style:circle;
+    }
+
+    .skillsSection .techSkills ul li{
+        margin-bottom: 0.5rem;
+    }
+
+    .skillsSection p{
+        color: white;
+        position: relative;
+        font-weight: 700;
+        display: flex;
+        justify-self: center;
+
+    }
+
+    .skillsSection p a{
+        cursor: pointer;
+        text-decoration: none;
+        color: white;
+        position: relative;
+        top: 4rem;
+       
+    }
+
+    .skillsSection p a:hover{
+        background: linear-gradient(90deg, #EE4C8D, #F25D5D, #F5663E, #F8711F)
+    }
+}
+
+@media screen and (min-width:1024px) and (max-width:1439px) {
+    .skillsSection{
+        display: grid;
+        justify-content: center;
+    }
+
+    .mainContainer {
+        max-width: 100%;
+        overflow-x: hidden; 
+    }
+    
+    * {
+        box-sizing: border-box;
+    }
+    
+    .skillsSection h3{
+        color: white;
+        font-size: 1.5rem;
+        display: flex;
+        justify-self: center;
+        position: relative;
+    }
+
+    .skillsSection .skillsCard{
+        height: 23rem;
+        width:18rem;
+        background-color: #1F2937;
+        position: relative;
+        top: 1rem;
+        border-radius: 0.3rem;
+        display: grid;
+        justify-self: center;
+
+    }
+
+    .skillsSection .skillsCard .barDiv h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 11.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv{
+        display: flex;
+        position: relative;
+        top: 0.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -3.5rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 12rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+
+
+    
+    .skillsSection .skillsCard .barDiv1 h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 8rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1{
+        display: flex;
+        position: relative;
+        top: -1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1 .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv1 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 13rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+
+    
+    .skillsSection .skillsCard .barDiv2 h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 8rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2{
+        display: flex;
+        position: relative;
+        top: -3.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2 .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv2 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 10rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+    
+    .skillsSection .skillsCard .barDiv3 h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 8rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3{
+        display: flex;
+        position: relative;
+        top: -5.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3 .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv3 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 11.8rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+    
+    .skillsSection .skillsCard .barDiv4 h6{
+        color: white;
+        font-size: 1rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1rem;
+        top: 0.3rem;
+        left: 8rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4{
+        display: flex;
+        position: relative;
+        top: -7.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4 .progressBar{
+        height: 0.6rem;
+        width: 15rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:3.5rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv4 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 14rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+    .skillsSection .techSkills{
+        width: 18rem;
+        height: 24rem;
+        border-radius: 0.3rem;
+        background-color: #1F2937;
+        position: relative;
+        top: 3rem;
+        color: white;
+    }
+
+    .skillsSection .techSkills h4{
+        color: rgb(59 130 246);
+        position: relative;
+        left: 1.5rem;
+        top: 0rem;
+    }
+
+    .skillsSection .techSkills ul{
+        list-style:circle;
+    }
+
+    .skillsSection .techSkills ul li{
+        margin-bottom: 0.5rem;
+    }
+
+    .skillsSection p{
+        color: white;
+        position: relative;
+        font-weight: 700;
+        display: flex;
+        justify-self: center;
+
+    }
+
+    .skillsSection p a{
+        cursor: pointer;
+        text-decoration: none;
+        color: white;
+        position: relative;
+        top: 4rem;
+       
+    }
+
+    .skillsSection p a:hover{
+        background: linear-gradient(90deg, #EE4C8D, #F25D5D, #F5663E, #F8711F)
+    }
+}
+
+
+@media screen and (min-width:1681px) {
+    .skillsSection{
+        display: grid;
+        justify-content: center;
+    }
+
+    .mainContainer {
+        max-width: 100%;
+        overflow-x: hidden; 
+    }
+    
+    * {
+        box-sizing: border-box;
+    }
+    
+    .skillsSection h3{
+        color: white;
+        font-size: 2rem;
+        display: flex;
+        justify-self: center;
+        position: absolute;
+        top: 7rem;
+        left: 54rem;
+    }
+
+    .skillsSection .skillsCard{
+        height: 30rem;
+        width:32rem;
+        background-color: #1F2937;
+        position: absolute;
+        top: 15rem;
+       left: 20rem;
+        border-radius: 0.3rem;
+        display: grid;
+        justify-self: center;
+
+    }
+
+    .skillsSection .skillsCard .barDiv h6{
+        color: white;
+        font-size: 1.2rem;
+        font-weight:500;
+        height: fit-content;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1.2rem;
+        top: 0.3rem;
+        left: 25.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv{
+        display: flex;
+        position: relative;
+        top: 0.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv .progressBar{
+        height: 0.6rem;
+        width: 29rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:4rem;
+        left: -3.8rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 24rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+
+
+    
+    .skillsSection .skillsCard .barDiv1 h6{
+        color: white;
+        font-size: 1.2rem;
+        font-weight:500;
+        height: fit-content;
+        width: 7.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1.2rem;
+        top: 0.3rem;
+        left: 21rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1{
+        display: flex;
+        position: relative;
+        top: -1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1 .progressBar{
+        height: 0.6rem;
+        width: 29rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:4rem;
+        left: -8rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv1 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 26rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+
+    
+    .skillsSection .skillsCard .barDiv2 h6{
+        color: white;
+        font-size: 1.2rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1.2rem;
+        top: 0.3rem;
+        left: 22rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2{
+        display: flex;
+        position: relative;
+        top: -3.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2 .progressBar{
+        height: 0.6rem;
+        width: 29rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:4rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv2 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 23rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+    
+    .skillsSection .skillsCard .barDiv3 h6{
+        color: white;
+        font-size: 1.2rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1.2rem;
+        top: 0.3rem;
+        left: 22rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3{
+        display: flex;
+        position: relative;
+        top: -5.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3 .progressBar{
+        height: 0.6rem;
+        width: 29rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:4rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv3 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 23.5rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+    
+    .skillsSection .skillsCard .barDiv4 h6{
+        color: white;
+        font-size: 1.2rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1.2rem;
+        top: 0.3rem;
+        left: 22rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4{
+        display: flex;
+        position: relative;
+        top: -7.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4 .progressBar{
+        height: 0.6rem;
+        width: 29rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:4rem;
+        left: -7rem;
+      
+      
+    }
+
+    .skillsSection .skillsCard .barDiv4 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 27rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+    .skillsSection .techSkills{
+        height: 30rem;
+        width:32rem;
+        border-radius: 0.3rem;
+        background-color: #1F2937;
+        position: absolute;
+        top: 15rem;
+        left: 67rem;
+        color: white;
+    }
+
+    .skillsSection .techSkills h4{
+        color: rgb(59 130 246);
+        font-size: 1.5rem;
+        position: relative;
+        left: 2rem;
+        top: 0rem;
+    }
+
+    .skillsSection .techSkills ul{
+        list-style:circle;
+        font-size: 1.2rem;
+        position: relative;
+        left: 1rem;
+        
+    }
+
+    .skillsSection .techSkills ul li{
+        margin-bottom: 0.6rem;
+    }
+
+    .skillsSection p {
+        color: white;
+        font-weight: 700;
+        display: flex;
+        justify-content: center; 
+        align-items: center; 
+        
+        height: 100%; 
+    }
+    
+    .skillsSection p a {
+        cursor: pointer;
+        text-decoration: none;
+        color: white;
+        font-size: 1.2rem;
+        padding: 1rem 1.5rem; 
+        background-color: #1F2937;
+        border-radius: 0.3rem; 
+        transition: color 0.3s ease; 
+        position: absolute;
+        top: 48rem;
+        left:54.5rem;
+    }
+    
+    .skillsSection p a:hover {
+        background: linear-gradient(90deg, #EE4C8D, #F25D5D, #F5663E, #F8711F);    }
+    
+}
+
+
+
+@media screen and (min-width:1440px) and (max-width:1680px){
+    .skillsSection{
+        display: grid;
+        justify-content: center;
+    }
+
+    .mainContainer {
+        max-width: 100%;
+        overflow-x: hidden; 
+    }
+    
+    * {
+        box-sizing: border-box;
+    }
+    
+    .skillsSection h3{
+        color: white;
+        font-size: 2rem;
+        display: flex;
+        justify-self: center;
+        position: absolute;
+        top: 7rem;
+    }
+
+    .skillsSection .skillsCard{
+        height: 30rem;
+        width:32rem;
+        background-color: #1F2937;
+        position: absolute;
+        top: 15rem;
+       left: 10rem;
+        border-radius: 0.3rem;
+        display: grid;
+        justify-self: center;
+
+    }
+
+    .skillsSection .skillsCard .barDiv h6{
+        color: white;
+        font-size: 1.2rem;
+        font-weight:500;
+        height: fit-content;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1.2rem;
+        top: 0.3rem;
+        left: 25.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv{
+        display: flex;
+        position: relative;
+        top: 0.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv .progressBar{
+        height: 0.6rem;
+        width: 29rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:4rem;
+        left: -3.8rem;
+      
+    }
+
+  
+    .skillsSection .skillsCard .barDiv .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 24rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+
+
+    
+    .skillsSection .skillsCard .barDiv1 h6{
+        color: white;
+        font-size: 1.2rem;
+        font-weight:500;
+        height: fit-content;
+        width: 7.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1.2rem;
+        top: 0.3rem;
+        left: 21rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1{
+        display: flex;
+        position: relative;
+        top: -1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv1 .progressBar{
+        height: 0.6rem;
+        width: 29rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:4rem;
+        left: -8rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv1 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 26rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+
+    
+    .skillsSection .skillsCard .barDiv2 h6{
+        color: white;
+        font-size: 1.2rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1.2rem;
+        top: 0.3rem;
+        left: 22rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2{
+        display: flex;
+        position: relative;
+        top: -3.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv2 .progressBar{
+        height: 0.6rem;
+        width: 29rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:4rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv2 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 23rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+    
+    .skillsSection .skillsCard .barDiv3 h6{
+        color: white;
+        font-size: 1.2rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1.2rem;
+        top: 0.3rem;
+        left: 22rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3{
+        display: flex;
+        position: relative;
+        top: -5.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv3 .progressBar{
+        height: 0.6rem;
+        width: 29rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:4rem;
+        left: -7rem;
+      
+    }
+
+    .skillsSection .skillsCard .barDiv3 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 23.5rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+
+    
+    .skillsSection .skillsCard .barDiv4 h6{
+        color: white;
+        font-size: 1.2rem;
+        font-weight:500;
+        height: fit-content;
+        width: 6.2rem;
+        position: relative;
+        top: -1rem;
+        left:1.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4 p{
+        color: white;
+        height: fit-content;
+        position: relative;
+        font-weight: 500;
+        font-size: 1.2rem;
+        top: 0.3rem;
+        left: 22rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4{
+        display: flex;
+        position: relative;
+        top: -7.5rem;
+    }
+
+    .skillsSection .skillsCard .barDiv4 .progressBar{
+        height: 0.6rem;
+        width: 29rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        position: relative;
+        top:4rem;
+        left: -7rem;
+      
+      
+    }
+
+    .skillsSection .skillsCard .barDiv4 .progressBar .progressPercentage{
+        height: 0.6rem;
+        width: 27rem;
+        background-color: rgb(59 130 246);
+        border-radius: 0.5rem;
+        position: relative;
+        top:0rem;
+    }
+
+    .skillsSection .techSkills{
+        height: 30rem;
+        width:32rem;
+        border-radius: 0.3rem;
+        background-color: #1F2937;
+        position: absolute;
+        top: 15rem;
+        right: 10rem;
+        color: white;
+    }
+
+    .skillsSection .techSkills h4{
+        color: rgb(59 130 246);
+        font-size: 1.5rem;
+        position: relative;
+        left: 2rem;
+        top: 0rem;
+    }
+
+    .skillsSection .techSkills ul{
+        list-style:circle;
+        font-size: 1.2rem;
+        position: relative;
+        left: 1rem;
+        
+    }
+
+    .skillsSection .techSkills ul li{
+        margin-bottom: 0.6rem;
+    }
+
+    .skillsSection p {
+        color: white;
+        font-weight: 700;
+        display: flex;
+        justify-content: center; 
+        align-items: center; 
+        
+        height: 100%; 
+    }
+    
+    .skillsSection p a {
+        cursor: pointer;
+        text-decoration: none;
+        color: white;
+        font-size: 1.2rem;
+        padding: 1rem 1.5rem; 
+        background-color: #1F2937;
+        border-radius: 0.3rem; 
+        transition: color 0.3s ease; 
+        margin-top: 40rem;
+    }
+    
+    .skillsSection p a:hover {
+        background: linear-gradient(90deg, #EE4C8D, #F25D5D, #F5663E, #F8711F);    }
+    
+}
+
+

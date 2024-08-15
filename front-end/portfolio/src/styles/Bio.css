@@ -1,0 +1,712 @@
+
+@media screen and (max-width: 767px) {
+
+.bioSection{
+    display: grid;
+}
+
+.bioSection img{
+    height: 20rem;
+    width:  9rem;
+    position: relative;
+    top:1rem;
+    display: flex;
+    justify-self: center;
+    border-radius: 0.3rem;
+}
+
+.bioSection h1{
+color: white;
+display: flex;
+justify-content: center;
+position: relative;
+top: 2rem;
+font-size: 1.4rem;
+font-weight: 600;
+}
+
+.bioSection .about{
+    background-color:#1F2937 ;
+    height: 26rem;
+    width: 16rem;
+    display: grid;
+    justify-content: center;
+    justify-self: center;
+    position: relative;
+    top: 3rem;
+    border-radius: 0.3rem;
+    padding: 1rem;
+}
+
+.bioSection .about h3{
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 500;
+    position: relative;
+    top: -0.5rem;
+}
+
+.bioSection .about p {
+    color: rgb(213, 213, 213);
+    font-size: 0.8rem;
+    font-weight: 500;
+    position: relative;
+    top: -2rem;
+    
+
+}
+
+.bioSection .educationDiv{
+    background-color:#1F2937 ;
+    height: 25rem;
+    width: 16rem;
+    display: grid;
+    justify-content: center;
+    justify-self: center;
+    position: relative;
+    top: 5rem;
+    padding: 1rem;
+    border-radius: 0.3rem;
+    color: white;
+}
+
+.bioSection .educationDiv h4{
+    color: white;
+    font-size: 1.5rem;
+    position: relative;
+    top: -1.5rem;
+}
+
+
+
+.bioSection .educationDiv .ug h3{
+    font-size: 1rem;
+    font-weight: 700;
+    position: relative;
+    top: -2.5rem;
+    text-decoration: underline;
+}
+
+.bioSection .educationDiv .ug p{
+    font-size: 0.9rem;
+    font-weight: 400;
+    position: relative;
+    top: -2.5rem;
+}
+
+
+.bioSection .educationDiv .x h2{
+    font-size: 1rem;
+    font-weight: 700;
+    text-decoration: underline;
+    position: relative;
+    top: -1rem;
+}
+
+.bioSection .educationDiv .x p{
+    font-size: 0.9rem;
+    font-weight: 400;
+    position: relative;
+    top: -1.5rem;
+}
+
+
+.bioSection .educationDiv .xii h2{
+    font-size: 1rem;
+    font-weight: 700;
+    text-decoration: underline;
+    position: relative;
+    top: -1rem;
+}
+
+.bioSection .educationDiv .xii p{
+    font-size: 0.9rem;
+    font-weight: 400;
+    position: relative;
+    top: -1.5rem;
+}
+
+.mainContainer{
+    height: 80rem;
+}
+}
+
+
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+    .bioSection{
+        display: grid;
+    
+    }
+
+    .mainContainer{
+        height: 105rem;
+    }
+
+    
+    .bioSection img{
+        height: 23rem;
+        width:  11rem;
+        position: relative;
+        top:3rem;
+        display: flex;
+        justify-self: center;
+        border-radius: 0.3rem;
+    }
+    
+    .bioSection h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 4rem;
+    font-size: 1.8rem;
+    font-weight: 700;
+    }
+    
+    .bioSection .about{
+        background-color:#1F2937 ;
+        height: 28rem;
+        width: 30rem;
+        display: grid;
+        justify-content: center;
+        justify-self: center;
+        position: relative;
+        top: 6rem;
+        border-radius: 0.3rem;
+        padding: 2rem;
+    }
+    
+    .bioSection .about h3{
+        color: white;
+        font-size: 1.8rem;
+        font-weight: 500;
+        position: relative;
+        top: -1.5rem;
+    }
+    
+    .bioSection .about p {
+        color: rgb(213, 213, 213);
+        font-size: 1.1rem;
+        font-weight: 400;
+        position: relative;
+        top: -3rem;
+        
+    
+    }
+    
+    .bioSection .educationDiv{
+        background-color:#1F2937 ;
+        height: 34rem;
+        width: 30rem;
+        display: grid;
+        justify-content: center;
+        justify-self: center;
+        position: relative;
+        top: 8rem;
+        padding: 2rem;
+        border-radius: 0.3rem;
+        color: white;
+    }
+    
+    .bioSection .educationDiv h4{
+        color: white;
+        font-size: 1.9rem;
+        position: relative;
+        top: -2.5rem;
+    }
+    
+    .bioSection .educationDiv .ug h2{
+        font-size: 1.1rem;
+        font-weight: 600;
+        text-decoration: underline;
+        position: relative;
+        top: -3rem;
+    }
+    
+    .bioSection .educationDiv .ug h3{
+        font-size: 1.9rem;
+        font-weight: 700;
+        position: relative;
+        top: -3rem;
+    }
+    
+    .bioSection .educationDiv .ug p{
+        font-size: 1rem;
+        font-weight: 400;
+        position: relative;
+        top: -3.5rem;
+    }
+    
+    
+    .bioSection .educationDiv .x h2{
+        font-size: 1.9rem;
+        font-weight: 700;
+        text-decoration: underline;
+        position: relative;
+        top: -3.5rem;
+    }
+    
+    .bioSection .educationDiv .x p{
+        font-size: 1rem;
+        font-weight: 400;
+        position: relative;
+        top: -3.5rem;
+    }
+    
+    
+    .bioSection .educationDiv .xii h2{
+        font-size: 1.9rem;
+        font-weight: 700;
+        text-decoration: underline;
+        position: relative;
+        top: -3.5rem;
+    }
+    
+    .bioSection .educationDiv .xii p{
+        font-size: 1rem;
+        font-weight: 400;
+        position: relative;
+        top: -3.5rem;
+    }
+
+}
+
+    @media screen and (min-width:1024px) and (max-width:1439px) {
+
+        
+    .bioSection{
+        display: grid;
+    
+    }
+
+    .mainContainer{
+        height: 115rem;
+    }
+
+    
+    .bioSection img{
+        height: 23rem;
+        width:  11rem;
+        position: relative;
+        top:3rem;
+        display: flex;
+        justify-self: center;
+        border-radius: 0.3rem;
+    }
+    
+    .bioSection h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 4rem;
+    font-size: 1.8rem;
+    font-weight: 700;
+    }
+    
+    .bioSection .about{
+        background-color:#1F2937 ;
+        height: 28rem;
+        width: 30rem;
+        display: grid;
+        justify-content: center;
+        justify-self: center;
+        position: relative;
+        top: 6rem;
+        border-radius: 0.3rem;
+        padding: 2rem;
+    }
+    
+    .bioSection .about h3{
+        color: white;
+        font-size: 1.8rem;
+        font-weight: 500;
+        position: relative;
+        top: -1.5rem;
+    }
+    
+    .bioSection .about p {
+        color: rgb(213, 213, 213);
+        font-size: 1.1rem;
+        font-weight: 400;
+        position: relative;
+        top: -3rem;
+        
+    
+    }
+    
+    .bioSection .educationDiv{
+        background-color:#1F2937 ;
+        height: 34rem;
+        width: 30rem;
+        display: grid;
+        justify-content: center;
+        justify-self: center;
+        position: relative;
+        top: 8rem;
+        padding: 2rem;
+        border-radius: 0.3rem;
+        color: white;
+    }
+    
+    .bioSection .educationDiv h4{
+        color: white;
+        font-size: 1.9rem;
+        position: relative;
+        top: -2.5rem;
+    }
+    
+    .bioSection .educationDiv .ug h2{
+        font-size: 1.1rem;
+        font-weight: 600;
+        text-decoration: underline;
+        position: relative;
+        top: -3rem;
+    }
+    
+    .bioSection .educationDiv .ug h3{
+        font-size: 1.9rem;
+        font-weight: 700;
+        position: relative;
+        top: -3rem;
+    }
+    
+    .bioSection .educationDiv .ug p{
+        font-size: 1rem;
+        font-weight: 400;
+        position: relative;
+        top: -3.5rem;
+    }
+    
+    
+    .bioSection .educationDiv .x h2{
+        font-size: 1.9rem;
+        font-weight: 700;
+        text-decoration: underline;
+        position: relative;
+        top: -3.5rem;
+    }
+    
+    .bioSection .educationDiv .x p{
+        font-size: 1rem;
+        font-weight: 400;
+        position: relative;
+        top: -3.5rem;
+    }
+    
+    
+    .bioSection .educationDiv .xii h2{
+        font-size: 1.9rem;
+        font-weight: 700;
+        text-decoration: underline;
+        position: relative;
+        top: -3.5rem;
+    }
+    
+    .bioSection .educationDiv .xii p{
+        font-size: 1rem;
+        font-weight: 400;
+        position: relative;
+        top: -3.5rem;
+    }
+
+    }
+
+
+    
+@media screen and (min-width:1681px) {
+       
+    .bioSection{
+        display: flex;
+    
+    }
+
+    .mainContainer{
+        height: 60rem;
+    }
+
+    
+    .bioSection img{
+        height: 40rem;
+        width:  22rem;
+        position: relative;
+        top:6rem;
+        left: 4rem;
+        border-radius: 0.3rem;
+    }
+    
+    .bioSection h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    position: relative;
+    top: 4rem;
+    left: 40rem;
+    font-size: 2rem;
+    font-weight: 700;
+    }
+    
+    .bioSection .about{
+        background-color:#1F2937 ;
+        margin-left: 4.5rem;
+        height: 29rem;
+        width: 28rem;
+        display: grid;
+        justify-content: center;
+        justify-self: center;
+        position: relative;
+        top: 15rem;
+        left: 5rem;
+        border-radius: 0.3rem;
+        padding: 2rem;
+    }
+    
+    .bioSection .about h3{
+        color: white;
+        font-size: 1.9rem;
+        font-weight: 700;
+        position: relative;
+        top: -2.5rem;
+        text-decoration: underline;
+
+    }
+    
+    .bioSection .about p {
+        color: rgb(255, 255, 255);
+        font-size: 1.1rem;
+        font-weight: 400;
+        position: relative;
+        top: -3rem;
+        
+    
+    }
+    
+    .bioSection .educationDiv{
+        background-color:#1F2937 ;
+        height: 29rem;
+        width: 28rem;
+        display: grid;
+        justify-content: center;
+        justify-self: center;
+        position: relative;
+        top: 15rem;
+        left: 8rem;
+        padding: 2rem;
+        border-radius: 0.3rem;
+        color: white;
+    }
+    
+    .bioSection .educationDiv h4{
+        color: white;
+        font-size: 1.9rem;
+        position: relative;
+        top: -3rem;
+        margin-bottom: 4.5rem;
+        text-decoration: underline;
+    }
+    
+    .bioSection .educationDiv .ug h2{
+        font-size: 1.1rem;
+        font-weight: 600;
+        text-decoration: underline;
+        position: relative;
+        top: -6rem;
+    }
+    
+    .bioSection .educationDiv .ug h3{
+        font-size: 1.9rem;
+        font-weight: 700;
+        position: relative;
+        top: -6rem;
+    }
+    
+    .bioSection .educationDiv .ug p{
+        font-size: 1rem;
+        font-weight: 400;
+        position: relative;
+        top: -7.5rem;
+    }
+    
+    
+    .bioSection .educationDiv .x h2{
+        font-size: 1.9rem;
+        font-weight: 700;
+        text-decoration: underline;
+        position: relative;
+        top: -8.5rem;
+    }
+    
+    .bioSection .educationDiv .x p{
+        font-size: 1rem;
+        font-weight: 400;
+        position: relative;
+        top: -9.5rem;
+    }
+    
+    
+    .bioSection .educationDiv .xii h2{
+        font-size: 1.9rem;
+        font-weight: 700;
+        text-decoration: underline;
+        position: relative;
+        top: -10.5rem;
+    }
+    
+    .bioSection .educationDiv .xii p{
+        font-size: 1rem;
+        font-weight: 400;
+        position: relative;
+        top: -11.5rem;
+    }
+}
+
+
+@media screen and (min-width:1440px) and (max-width:1680px){
+
+          
+    .bioSection{
+        display: flex;
+    
+    }
+
+    .mainContainer{
+        height: 60rem;
+    }
+
+    
+    .bioSection img{
+        height: 40rem;
+        width:  22rem;
+        position: relative;
+        top:6rem;
+        left: 4rem;
+        border-radius: 0.3rem;
+    }
+    
+    .bioSection h1{
+    color: white;
+    display:inline;
+    justify-self: center;
+    position: relative;
+    top: 7rem;
+    left: 38%;
+    font-size: 2rem;
+    font-weight: 700;
+    }
+    
+    .bioSection .about{
+        background-color:#1F2937 ;
+        margin-left: 4.5rem;
+        height: 29rem;
+        width: 28rem;
+        display: grid;
+        justify-content: center;
+        justify-self: center;
+        position: relative;
+        top: 15rem;
+        left: -2rem;
+        border-radius: 0.3rem;
+        padding: 2rem;
+    }
+    
+    .bioSection .about h3{
+        color: white;
+        font-size: 1.9rem;
+        font-weight: 700;
+        position: relative;
+        top: -2.5rem;
+        text-decoration: underline;
+
+    }
+    
+    .bioSection .about p {
+        color: rgb(255, 255, 255);
+        font-size: 1.1rem;
+        font-weight: 400;
+        position: relative;
+        top: -3rem;
+        
+    
+    }
+    
+    .bioSection .educationDiv{
+        background-color:#1F2937 ;
+        height: 29rem;
+        width: 28rem;
+        display: grid;
+        justify-content: center;
+        justify-self: center;
+        position: relative;
+        top: 15rem;
+        left: 1rem;
+        padding: 2rem;
+        border-radius: 0.3rem;
+        color: white;
+    }
+    
+    .bioSection .educationDiv h4{
+        color: white;
+        font-size: 1.9rem;
+        position: relative;
+        top: -3rem;
+        margin-bottom: 4.5rem;
+        text-decoration: underline;
+    }
+    
+    .bioSection .educationDiv .ug h2{
+        font-size: 1.1rem;
+        font-weight: 600;
+        text-decoration: underline;
+        position: relative;
+        top: -6rem;
+    }
+    
+    .bioSection .educationDiv .ug h3{
+        font-size: 1.9rem;
+        font-weight: 700;
+        position: relative;
+        top: -6rem;
+    }
+    
+    .bioSection .educationDiv .ug p{
+        font-size: 1rem;
+        font-weight: 400;
+        position: relative;
+        top: -7.5rem;
+    }
+    
+    
+    .bioSection .educationDiv .x h2{
+        font-size: 1.9rem;
+        font-weight: 700;
+        text-decoration: underline;
+        position: relative;
+        top: -8.5rem;
+    }
+    
+    .bioSection .educationDiv .x p{
+        font-size: 1rem;
+        font-weight: 400;
+        position: relative;
+        top: -9.5rem;
+    }
+    
+    
+    .bioSection .educationDiv .xii h2{
+        font-size: 1.9rem;
+        font-weight: 700;
+        text-decoration: underline;
+        position: relative;
+        top: -10.5rem;
+    }
+    
+    .bioSection .educationDiv .xii p{
+        font-size: 1rem;
+        font-weight: 400;
+        position: relative;
+        top: -11.5rem;
+    }
+}

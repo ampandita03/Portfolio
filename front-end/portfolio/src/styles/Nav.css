@@ -1,0 +1,145 @@
+/* Default styles */
+.NavBar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    width: 100%;
+    overflow-x: hidden; 
+
+  }
+
+  .mainContainer {
+    max-width: 100%;
+    overflow-x: hidden; 
+}
+  
+  * {
+    box-sizing: border-box;
+}
+
+  .NavBar ul {
+    display: flex;
+    list-style: none;
+    
+  }
+  
+  .NavBar ul li {
+    margin: 0 10px;
+  }
+  
+  .NavBar img {
+    display: none; 
+    cursor: pointer;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .NavBar img {
+      display: block;
+      margin-top: 1rem; 
+      margin-left: 0.5rem;
+    }
+
+    .no-scroll {
+      overflow: hidden;
+    }
+  
+    .NavBar ul {
+      display: none; 
+      flex-direction: column;
+      position: absolute;
+      top: 38px;
+      left: 0;
+      background-color: #0c0c0c;;
+      width: 100%; 
+      border-radius: 5px;
+      padding: 10px;
+    }
+  
+    .NavBar ul.show {
+      display: flex; 
+      width: 100%;
+      z-index: 999;
+      transition: 2sec ease-in-out;
+    }
+  
+    .NavBar ul li {
+      margin: 10px 0;
+    }
+  
+    .NavBar ul li a {
+      color: white;
+      text-decoration: none;
+    }
+  }
+  
+  @media screen and (min-width: 768px) and (max-width: 1023px) {
+    .NavBar {
+        display: flex;
+        justify-content: center;
+    }
+
+    .NavBar ul {
+        display: flex;
+        justify-content:center;
+        gap:3rem;
+        margin-left: -2.2rem;
+    }
+
+    .NavBar ul li {
+        list-style: none;
+    }
+
+    .NavBar a {
+        text-decoration: none;
+        color: white;
+    }
+}
+
+
+@media screen and (min-width:1024px) and (max-width:1439px) {
+    .NavBar{
+        display: flex;
+        justify-content: center;
+    }
+    .NavBar ul{
+        gap:6rem ;
+        margin-left: -2rem;
+    }
+
+    .NavBar ul li{
+        list-style: none;
+    }
+
+    .NavBar a{
+        color: white;
+        text-decoration: none;
+        font-size: 1rem;
+    }
+}
+
+@media screen and (min-width:1440px) {
+
+     .NavBar{
+        display: flex;
+        justify-content: center;
+        position: relative;
+        top: 1rem;
+
+    }
+    .NavBar ul{
+        gap:12rem ;
+        margin-left: -2rem;
+
+    }
+
+    .NavBar ul li{
+        list-style: none;
+    }
+
+    .NavBar a{
+        color: white;
+        text-decoration: none;
+        font-size: 1.1rem;
+    }
+}
